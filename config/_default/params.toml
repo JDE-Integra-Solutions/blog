@@ -1,6 +1,6 @@
 mainSections   = ["post"]
 rssFullContent = true
-favicon        = "img/avatar.png"
+favicon        = "img/avatar.jpg"
 
 [footer]
     since = 2026
@@ -8,11 +8,7 @@ favicon        = "img/avatar.png"
 [sidebar]
     emoji    = "✏️"
     subtitle = "Test de pruba para el blog"
-
-    [sidebar.avatar]
-    enable = true
-    local = true
-    src = "img/avatar.png"
+    avatar   = "img/avatar.jpg"
 
 [article]
     [article.license]

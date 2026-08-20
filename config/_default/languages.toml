@@ -1,7 +1,7 @@
 [es]
-    languageName = "Spanish"
-    title        = "JDE Blog Revolution"
-    weight       = 1
+    label  = "Spanish"
+    title  = "JDE Blog Revolution"
+    weight = 1
 
     [es.params.sidebar]
         subtitle = "Integra Solutions"
