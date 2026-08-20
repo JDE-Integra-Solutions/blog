@@ -1,0 +1,16 @@
+baseURL                 = "https://jde.github.io/"
+languageCode            = "en-us"
+title                   = "JDE Integra Solutions"
+defaultContentLanguage  = "es"
+hasCJKLanguage          = false
+theme                   = "hugo-theme-stack"
+
+[pagination]
+    pagerSize = 5
+
+[permalinks]
+    post = "/p/:slug/"
+    page = "/:slug/"
+
+[services.disqus]
+    shortname = "hugo-theme-stack"
