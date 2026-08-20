@@ -1,4 +1,4 @@
-baseURL                 = "https://jde.github.io/"
+baseURL                 = "https://jde-integra-solutions.github.io/blog/"
 locale                  = "es-es"
 title                   = "JDE Integra Solutions"
 defaultContentLanguage  = "es"
