@@ -12,7 +12,7 @@ favicon        = "img/avatar.png"
     [sidebar.avatar]
     enable = true
     local = true
-    scr = "img/avatar.png"
+    src = "img/avatar.png"
 
 [article]
     [article.license]
